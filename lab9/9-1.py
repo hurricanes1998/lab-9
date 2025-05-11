@@ -1,6 +1,6 @@
 from PIL import Image
 
-file_path = r'../Pictures/1.jpg'
+file_path = r'C:\Users\Vlad\PycharmProjects\PythonProject2\lab9\1.jpg'
 
 img = Image.open(file_path)
 
